@@ -1,0 +1,19 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/work/path-wrangler/path-wrangler/Sources/CorePathWrangler/_PathProtocol.swift",
+      "line": 57,
+      "symbol": "_PathProtocol.isSubpath(of:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/path-wrangler/path-wrangler/Sources/CorePathWrangler/_PathProtocol.swift",
+      "line": 62,
+      "symbol": "_PathProtocol.isSubpath(of:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/work/path-wrangler/path-wrangler"
+}
